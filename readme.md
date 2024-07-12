@@ -53,3 +53,13 @@
 ## Move the client_secret.json File to Your Working Directory:
     1. Move the downloaded client_secret.json file to the directory where you will be running your Python script. Ensure that the file name matches what you reference in your script.
     2. Rename it with client_secret.json
+
+## Build Project & Run
+
+Read Here:
+https://go.dev/doc/tutorial/compile-install
+
+For Development:
+$ go run import_subscriptions.go
+
+If Prompted, Follow instruction to get token
